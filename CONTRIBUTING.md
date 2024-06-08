@@ -1,6 +1,3 @@
 ### Contributing to Lima
 
-- Please certify your [Developer Certificate of Origin (DCO)](https://developercertificate.org/),
-  by signing off your commit with `git commit -s` and with your real name.
-
-- Please squash commits in meaningful granularity.
+See <https://lima-vm.io/docs/community/contributing/>.
